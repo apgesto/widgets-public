@@ -8,7 +8,7 @@ permalink: /daykit/privacy-policy/
 - **App:** Daykit (Windows app with widgets for the Windows 11 Widgets Board)
 - **Developer:** Appfine
 - **Contact:** [appfine@outlook.com](mailto:appfine@outlook.com)
-- **Effective date:** November 25, 2026
+- **Effective date:** November 26, 2026
 
 This policy explains what information Daykit ("the app") handles and what happens to it. In short: **the app does not collect, send or share any personal information. Everything you enter stays on your device.**
 
@@ -22,6 +22,7 @@ The app stores only the content you create in it, so that it can show it to you 
 - **Notes:** the text of your notes.
 - **Trackers:** the names and values of the trackers you set up.
 - **App settings:** your preferences, such as the app theme and whether and when the daily habits reminder is shown.
+- **Error log:** if something goes wrong, technical details of the error (the time and the place in the app's code where it happened). It does not include your content, and it stays on your device like everything else.
 
 Some of these modules may not be available in every version of the app. The app does not ask for your name, e-mail address, location, contacts, or any other personal identifiers, and it does not access your camera, microphone, files or other apps.
 
